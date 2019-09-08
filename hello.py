@@ -5,4 +5,8 @@ print('helloworld python & giti rock')
 #3rd update
 #4th update
 #5th update
+<<<<<<< HEAD
 #7th update
+=======
+#6th update in github server
+>>>>>>> 5ad625ee402a2331d974faff2acbba0c341269a3
