@@ -10,3 +10,4 @@ print('helloworld python & giti rock')
 =======
 #6th update in github server
 >>>>>>> 5ad625ee402a2331d974faff2acbba0c341269a3
+update in github on 9 Sept 2019
